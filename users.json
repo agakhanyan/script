@@ -1,6 +1,6 @@
 {
   "player": ["Aang_Costelloz", "Wraith_Costello", "Aang_Costello"],
-  "authorization": ["true"],
+  "authorization": ["true", "false"],
   "date": ["13.10.2025"],
   "time": ["15:30"]
 }
